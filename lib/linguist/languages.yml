@@ -5147,6 +5147,12 @@ Self:
   tm_scope: none
   ace_mode: text
   language_id: 345
+SEMC Bak:
+  type: data
+  color: "#a2579a"
+  extensions:
+  - ".semc.bak"
+  language_id: _
 ShaderLab:
   type: programming
   extensions:
